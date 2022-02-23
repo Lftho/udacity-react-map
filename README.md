@@ -34,3 +34,5 @@ Isso irá iniciar a aplicação em seu navegador padrão utilizando a porta 3000
 ## Deployment
 Através da linha de comando, navegue até o diretório do projeto e digite o comando "npm run build". 
 Isso irá criar uma versão de produção no diretório ./build.
+
+Feito por Lftho 💜 :wave: - aplicação desenvolvida em 2017

@@ -5,15 +5,21 @@
 Crie uma aplicação de página única com React e a API do Google Maps. 
 Integre uma API de terceiros e torne seu aplicativo acessível e utilizável offline.
 
+<img src="https://github.com/Lftho/udacity-react-map/blob/master/src/assets/tela-01.png" alt="map" />
+ 
 ### Funcionalidades da aplicação
 
-1. Descrição
 O Mapa do Bairro, que chamei simplesmente de "My Map", é um SPA, ou Single Page Application, feito com React. 
 A aplicação apresenta um mapa utilizando a "api do google maps" e também a "places api do Foursquare" para apresentar algumas informações extras sobre algumas localizações marcadas no mapa.
 
-**`PS:`** a API do Foursquare possui algumas limitaçòes neste projeto. 
+<img src="https://github.com/Lftho/udacity-react-map/blob/master/src/assets/tela-02.png" alt="map" />
 
+
+**`PS:`** a API do Foursquare possui algumas limitaçòes neste projeto. 
 Como criei uma conta gratuita, minha aplicação só efetuar no máximo 50 requisições por dia. 
+
+<img src="https://github.com/Lftho/udacity-react-map/blob/master/src/assets/tela-03.png" alt="map" />
+
 Fora isso, a conta gratúita da API do Foursquare só retorna 1 foto e 1 tip, apesar do sistema estar preparado para receber mais.
 
 ## Para uso
